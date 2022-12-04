@@ -7,7 +7,7 @@ import plotly.express as px
 data_copa = pd.read_csv('data/players_20.csv')
 
 #Titulo
-st.title('Copa do mundo 2022')
+st.title('Copa do mundo 2020')
 
 #Menu
 with st.sidebar:
